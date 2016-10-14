@@ -27,7 +27,7 @@ a:active {
 }
 /* 首页列表 */
 .link{
-    width: 1019px;
+    width: 990px;
     overflow: hidden;
     margin-left: auto;
     margin-right: auto;
@@ -42,7 +42,7 @@ a:active {
 }
 .linkl {
 	text-align:center;
-    padding-left: 6px;
+    padding-left: 7px;
     background: none repeat scroll 0% 0% rgb(255, 255, 255);
     padding-top: 0px;
     padding-bottom: 5px;
@@ -57,7 +57,7 @@ a:active {
 }
 .linkl ul li {
 	color: #069;
-    width: 105px;
+    width: 115px;
     height: 38px;
     overflow: hidden;
     line-height: 40px;
