@@ -54,6 +54,7 @@ a:active {
     font-size: 15px;
     padding: 5px;
     overflow: hidden;
+	list-style: none;
 }
 .linkl ul li {
 	color: #069;
