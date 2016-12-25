@@ -1,6 +1,6 @@
 body {background-color:rgb(248,0,255)}
 /* 顶部 */
-.list {background: none repeat scroll 0% 0% #036C8A;
+.list {background: none repeat scroll 0% 0% #069;
     line-height: 48px;
     font-size: 13px;
 }
@@ -34,7 +34,7 @@ a:active {
     font-size: 15px;
 }
 .link .linka{
-    background: none repeat scroll 0% 0% #036C8A;
+    background: none repeat scroll 0% 0% #069;
     line-height: 37px;
 }
 .link .linka strong{
